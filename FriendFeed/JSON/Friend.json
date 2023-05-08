@@ -1,0 +1,3794 @@
+{
+   "data":[
+      {
+         "id":99140728,
+         "avatar":"https://image-2.gapowork.vn/images/89a6fe04-6aca-4a10-ac90-ab6086bff36f/blob.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-2.gapowork.vn/$size$/smart/89a6fe04-6aca-4a10-ac90-ab6086bff36f/blob.jpeg",
+         "display_name":"Hoàng vân anh 11111",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"Sống vội",
+            "addresss":{
+               "current":{
+                  "city":17
+               }
+            },
+            "work":[
+               {
+                  "user_id":99140728,
+                  "workspace_id":"581711080747329",
+                  "company":"Ở nhà anh là cá mập ra đường anh là cá con",
+                  "departments":[
+                     "A"
+                  ],
+                  "department_ids":[
+                     "95ca288c6fbe4eab8cd9bb5f194f1667"
+                  ],
+                  "department_id":"95ca288c6fbe4eab8cd9bb5f194f1667",
+                  "department":"A",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "95ca288c6fbe4eab8cd9bb5f194f1667"
+                        ],
+                        "departments":[
+                           "A"
+                        ],
+                        "department_id":"95ca288c6fbe4eab8cd9bb5f194f1667",
+                        "department":"A"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "dec3469d8e0545dc83765973495178a6"
+                        ],
+                        "departments":[
+                           "fgfg"
+                        ],
+                        "department_id":"dec3469d8e0545dc83765973495178a6",
+                        "department":"fgfg"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "6b6e87bfd1aa4315bece91850e6ae1d0"
+                        ],
+                        "departments":[
+                           "o"
+                        ],
+                        "department_id":"6b6e87bfd1aa4315bece91850e6ae1d0",
+                        "department":"o"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "71b8948cba494c5eabbd347552fc0970"
+                        ],
+                        "departments":[
+                           "Phòng ban có 50 user"
+                        ],
+                        "department_id":"71b8948cba494c5eabbd347552fc0970",
+                        "department":"Phòng ban có 50 user"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "971f38b02d0a457ea847853738beafcd"
+                        ],
+                        "departments":[
+                           "ỵty"
+                        ],
+                        "department_id":"971f38b02d0a457ea847853738beafcd",
+                        "department":"ỵty"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "09c4db93d70e4d2f92769329ce3efe63"
+                        ],
+                        "departments":[
+                           "new"
+                        ],
+                        "department_id":"09c4db93d70e4d2f92769329ce3efe63",
+                        "department":"new"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "c83d5971dc404525ba6681e82940ecbd"
+                        ],
+                        "departments":[
+                           "XY"
+                        ],
+                        "department_id":"c83d5971dc404525ba6681e82940ecbd",
+                        "department":"XY"
+                     }
+                  ]
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "7",
+                     "Gapo con 1",
+                     "gapo cháu 1"
+                  ],
+                  "department_ids":[
+                     "2e4607c72b254572909b339f8cc831cd",
+                     "4dd6d8f29ce44c60b72bf817f629870f",
+                     "9a14cb30e9a74294958dff033f002843"
+                  ],
+                  "department_id":"9a14cb30e9a74294958dff033f002843",
+                  "department":"gapo cháu 1",
+                  "title":"Chức vụ 3 - Hương test",
+                  "role_id":"b296691b5c314644aafaf2bc4aae8d1c",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "2e4607c72b254572909b339f8cc831cd",
+                           "4dd6d8f29ce44c60b72bf817f629870f",
+                           "9a14cb30e9a74294958dff033f002843"
+                        ],
+                        "departments":[
+                           "7",
+                           "Gapo con 1",
+                           "gapo cháu 1"
+                        ],
+                        "department_id":"9a14cb30e9a74294958dff033f002843",
+                        "department":"gapo cháu 1",
+                        "role_id":"b296691b5c314644aafaf2bc4aae8d1c",
+                        "title":"Chức vụ 3 - Hương test"
+                     },
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "1f7f7e9b09c74087809890429e5de2ee"
+                        ],
+                        "departments":[
+                           "Phòng ban này có 3 người"
+                        ],
+                        "department_id":"1f7f7e9b09c74087809890429e5de2ee",
+                        "department":"Phòng ban này có 3 người",
+                        "role_id":"b296691b5c314644aafaf2bc4aae8d1c",
+                        "title":"Chức vụ 3 - Hương test"
+                     },
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a",
+                        "role_id":"065100f25c8e4959b79a56d310502df6",
+                        "title":"Chỉnh sửa Nhân viên kinh doanh Hà Nội 1"
+                     }
+                  ]
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"581927044252382",
+                  "company":"Test Masjoco st1- Chỉnh sửa cho dài ra",
+                  "departments":[
+                     "phong 10"
+                  ],
+                  "department_ids":[
+                     "963eee5661b645e6b61bedd537b4e2fe"
+                  ],
+                  "department_id":"963eee5661b645e6b61bedd537b4e2fe",
+                  "department":"phong 10",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581927044252382",
+                        "department_ids":[
+                           "963eee5661b645e6b61bedd537b4e2fe"
+                        ],
+                        "departments":[
+                           "phong 10"
+                        ],
+                        "department_id":"963eee5661b645e6b61bedd537b4e2fe",
+                        "department":"phong 10"
+                     },
+                     {
+                        "tree_id":"581927044252382",
+                        "department_ids":[
+                           "4a15c7956d014c13a42218f0eb3af95f"
+                        ],
+                        "departments":[
+                           "Nhóm chat"
+                        ],
+                        "department_id":"4a15c7956d014c13a42218f0eb3af95f",
+                        "department":"Nhóm chat"
+                     },
+                     {
+                        "tree_id":"581927044252382",
+                        "department_ids":[
+                           "a0d3b0c5d3934cb894429d493a20a76c"
+                        ],
+                        "departments":[
+                           "\\ơiiiiii\\"
+                        ],
+                        "department_id":"a0d3b0c5d3934cb894429d493a20a76c",
+                        "department":"\\ơiiiiii\\"
+                     }
+                  ]
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582515844427520",
+                  "company":"Mở - đã đc verify"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582629171101617",
+                  "company":"Dashbroad",
+                  "departments":[
+                     "1"
+                  ],
+                  "department_ids":[
+                     "db7bd5326165491fb3618b2691ebd53d"
+                  ],
+                  "department_id":"db7bd5326165491fb3618b2691ebd53d",
+                  "department":"1",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"cbc1f08e13d944f0b0932fb00544215b",
+                        "department_ids":[
+                           "db7bd5326165491fb3618b2691ebd53d"
+                        ],
+                        "departments":[
+                           "1"
+                        ],
+                        "department_id":"db7bd5326165491fb3618b2691ebd53d",
+                        "department":"1"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "22cfd19d08ee46e18cdee48fc53c44ce",
+                           "117f7f7b7c13478d95d318fe1e01d997"
+                        ],
+                        "departments":[
+                           "1  phòng ban tech",
+                           "0"
+                        ],
+                        "department_id":"117f7f7b7c13478d95d318fe1e01d997",
+                        "department":"0",
+                        "role_id":"956e2de7ae06456f9684ea15c63fb9e9",
+                        "title":"CTO"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "22cfd19d08ee46e18cdee48fc53c44ce"
+                        ],
+                        "departments":[
+                           "1  phòng ban tech"
+                        ],
+                        "department_id":"22cfd19d08ee46e18cdee48fc53c44ce",
+                        "department":"1  phòng ban tech",
+                        "role_id":"956e2de7ae06456f9684ea15c63fb9e9",
+                        "title":"CTO"
+                     }
+                  ]
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582796723906701",
+                  "company":"aaaa"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582945612744150",
+                  "company":"test wp"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582975009357667",
+                  "company":"Test chuyển thành viên"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582975018621862",
+                  "company":"new",
+                  "departments":[
+                     "Cứu"
+                  ],
+                  "department_ids":[
+                     "3017e9c117b043ed846f3fb0f5620dad"
+                  ],
+                  "department_id":"3017e9c117b043ed846f3fb0f5620dad",
+                  "department":"Cứu",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582975018621862",
+                        "department_ids":[
+                           "3017e9c117b043ed846f3fb0f5620dad"
+                        ],
+                        "departments":[
+                           "Cứu"
+                        ],
+                        "department_id":"3017e9c117b043ed846f3fb0f5620dad",
+                        "department":"Cứu"
+                     }
+                  ]
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582977819838880",
+                  "company":"wp"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582977870984695",
+                  "company":"wp mới - 200 slot"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582986446498850",
+                  "company":"Wp có link public bị khóa"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582986837395479",
+                  "company":"VA 1 - Không ai động vào nhé ạ"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582988444146126",
+                  "company":"tét cache"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"582988607187871",
+                  "company":"new Limh"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583006588879897",
+                  "company":"VA 2 - Không động nhé ạ"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583027549408435",
+                  "company":"Demo Sprint 1"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583036031889991",
+                  "company":"wp new"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583040651517913",
+                  "company":"Workspace khảo sát"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583084163092421",
+                  "company":"Workspace new"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583183702642367",
+                  "company":"uyi"
+               },
+               {
+                  "user_id":99140728,
+                  "workspace_id":"583294976617113",
+                  "company":"Approval new"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":6,
+         "created_at":1678245794391
+      },
+      {
+         "id":399110638,
+         "avatar":"https://image-2.gapowork.vn/images/8a9ee2d9-23f5-4fa0-8003-727c22e9bc05/blob.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-2.gapowork.vn/$size$/smart/8a9ee2d9-23f5-4fa0-8003-727c22e9bc05/blob.jpeg",
+         "display_name":"Hienhihi staging",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "addresss":{
+               "current":{
+                  "city":0
+               }
+            },
+            "work":[
+               {
+                  "user_id":399110638,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "a"
+                  ],
+                  "department_ids":[
+                     "5f61646a23244cbb9fe7b09100083048"
+                  ],
+                  "department_id":"5f61646a23244cbb9fe7b09100083048",
+                  "department":"a",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a"
+                     }
+                  ]
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"581901855697089",
+                  "company":"Karo"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"582515844427520",
+                  "company":"Mở - đã đc verify"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"582597246857511",
+                  "company":"Hienhihi staging",
+                  "departments":[
+                     "Phòng ban 6"
+                  ],
+                  "department_ids":[
+                     "c1567abb98414f659d4bd7d14a052401"
+                  ],
+                  "department_id":"c1567abb98414f659d4bd7d14a052401",
+                  "department":"Phòng ban 6",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "c1567abb98414f659d4bd7d14a052401"
+                        ],
+                        "departments":[
+                           "Phòng ban 6"
+                        ],
+                        "department_id":"c1567abb98414f659d4bd7d14a052401",
+                        "department":"Phòng ban 6"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "6c7ae7d7b1c642759e72e0c18a5f4999"
+                        ],
+                        "departments":[
+                           "Phòng ban 16"
+                        ],
+                        "department_id":"6c7ae7d7b1c642759e72e0c18a5f4999",
+                        "department":"Phòng ban 16"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "1d2fcc4e54094c6eab3aeb1a6bcb2f9d"
+                        ],
+                        "departments":[
+                           "Phòng ban 17"
+                        ],
+                        "department_id":"1d2fcc4e54094c6eab3aeb1a6bcb2f9d",
+                        "department":"Phòng ban 17"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "55562cfaca034bc1b05cf9d5b00296f7"
+                        ],
+                        "departments":[
+                           "Phòng ban 18"
+                        ],
+                        "department_id":"55562cfaca034bc1b05cf9d5b00296f7",
+                        "department":"Phòng ban 18"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "737119e104d04dddacd3666f6a88b9e1"
+                        ],
+                        "departments":[
+                           "Phòng ban 19"
+                        ],
+                        "department_id":"737119e104d04dddacd3666f6a88b9e1",
+                        "department":"Phòng ban 19"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "65d117c90f634ad3a4ad4bfebbae073e"
+                        ],
+                        "departments":[
+                           "Phòng ban 20"
+                        ],
+                        "department_id":"65d117c90f634ad3a4ad4bfebbae073e",
+                        "department":"Phòng ban 20"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "a083d12cfa8742ad84ec39bb5a3dff99"
+                        ],
+                        "departments":[
+                           "Phòng ban 22"
+                        ],
+                        "department_id":"a083d12cfa8742ad84ec39bb5a3dff99",
+                        "department":"Phòng ban 22"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "2813175365fa41dfa475b9a13532f9b9"
+                        ],
+                        "departments":[
+                           "Hiền - hiền hihi"
+                        ],
+                        "department_id":"2813175365fa41dfa475b9a13532f9b9",
+                        "department":"Hiền - hiền hihi"
+                     }
+                  ]
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"582629171101617",
+                  "company":"Dashbroad",
+                  "departments":[
+                     "a",
+                     "b",
+                     "c"
+                  ],
+                  "department_ids":[
+                     "5da3646aeefc4f329cd866bb118f0960",
+                     "9611b621a80749daa9a10e38663229bc",
+                     "0b9b3275527149b1ab84f62f24d18240"
+                  ],
+                  "department_id":"0b9b3275527149b1ab84f62f24d18240",
+                  "department":"c",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "5da3646aeefc4f329cd866bb118f0960",
+                           "9611b621a80749daa9a10e38663229bc",
+                           "0b9b3275527149b1ab84f62f24d18240"
+                        ],
+                        "departments":[
+                           "a",
+                           "b",
+                           "c"
+                        ],
+                        "department_id":"0b9b3275527149b1ab84f62f24d18240",
+                        "department":"c"
+                     },
+                     {
+                        "tree_id":"778b68c2d18d44cabc3914c61b0d4c20",
+                        "department_ids":[
+                           "9c903a36c34c459898bd30e5e11b278b"
+                        ],
+                        "departments":[
+                           "Phụ 1"
+                        ],
+                        "department_id":"9c903a36c34c459898bd30e5e11b278b",
+                        "department":"Phụ 1"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "a9007305d9354433a6c1aadc4ecb1ac6"
+                        ],
+                        "departments":[
+                           "Hien 1_1"
+                        ],
+                        "department_id":"a9007305d9354433a6c1aadc4ecb1ac6",
+                        "department":"Hien 1_1"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "10e0fb04217a4ca6abaf756f8a76d577",
+                           "9e6ad8dd5dbe4c82ababfaadb2a44e84"
+                        ],
+                        "departments":[
+                           "HIne pb 0101",
+                           "Hien bé 1"
+                        ],
+                        "department_id":"9e6ad8dd5dbe4c82ababfaadb2a44e84",
+                        "department":"Hien bé 1"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "10f1936ab79846ae85feb79ce6bbce1b"
+                        ],
+                        "departments":[
+                           "2"
+                        ],
+                        "department_id":"10f1936ab79846ae85feb79ce6bbce1b",
+                        "department":"2"
+                     }
+                  ]
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583011011927894",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583011017107230",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583011140262350",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583011156821279",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group",
+                  "departments":[
+                     "Phòng ban 6"
+                  ],
+                  "department_ids":[
+                     "c1567abb98414f659d4bd7d14a052401"
+                  ],
+                  "department_id":"c1567abb98414f659d4bd7d14a052401",
+                  "department":"Phòng ban 6",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "c1567abb98414f659d4bd7d14a052401"
+                        ],
+                        "departments":[
+                           "Phòng ban 6"
+                        ],
+                        "department_id":"c1567abb98414f659d4bd7d14a052401",
+                        "department":"Phòng ban 6"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "1d2fcc4e54094c6eab3aeb1a6bcb2f9d"
+                        ],
+                        "departments":[
+                           "Phòng ban 17"
+                        ],
+                        "department_id":"1d2fcc4e54094c6eab3aeb1a6bcb2f9d",
+                        "department":"Phòng ban 17"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "6c7ae7d7b1c642759e72e0c18a5f4999"
+                        ],
+                        "departments":[
+                           "Phòng ban 16"
+                        ],
+                        "department_id":"6c7ae7d7b1c642759e72e0c18a5f4999",
+                        "department":"Phòng ban 16"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "55562cfaca034bc1b05cf9d5b00296f7"
+                        ],
+                        "departments":[
+                           "Phòng ban 18"
+                        ],
+                        "department_id":"55562cfaca034bc1b05cf9d5b00296f7",
+                        "department":"Phòng ban 18"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "737119e104d04dddacd3666f6a88b9e1"
+                        ],
+                        "departments":[
+                           "Phòng ban 19"
+                        ],
+                        "department_id":"737119e104d04dddacd3666f6a88b9e1",
+                        "department":"Phòng ban 19"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "65d117c90f634ad3a4ad4bfebbae073e"
+                        ],
+                        "departments":[
+                           "Phòng ban 20"
+                        ],
+                        "department_id":"65d117c90f634ad3a4ad4bfebbae073e",
+                        "department":"Phòng ban 20"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "a083d12cfa8742ad84ec39bb5a3dff99"
+                        ],
+                        "departments":[
+                           "Phòng ban 22"
+                        ],
+                        "department_id":"a083d12cfa8742ad84ec39bb5a3dff99",
+                        "department":"Phòng ban 22"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020825658629",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583020872871392",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":399110638,
+                  "workspace_id":"583088104393330",
+                  "company":"abc"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":10,
+         "created_at":1665990729292
+      },
+      {
+         "id":747538947,
+         "avatar":"https://image-2.gapowork.vn/images/da688e15-1cb9-41c4-843d-0da74ffb0bcf/image.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-2.gapowork.vn/$size$/smart/da688e15-1cb9-41c4-843d-0da74ffb0bcf/image.jpeg",
+         "display_name":"Bach Van Hai",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "work":[
+               {
+                  "user_id":747538947,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "a"
+                  ],
+                  "department_ids":[
+                     "5f61646a23244cbb9fe7b09100083048"
+                  ],
+                  "department_id":"5f61646a23244cbb9fe7b09100083048",
+                  "department":"a",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a"
+                     }
+                  ]
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":747538947,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               }
+            ],
+            "bio":""
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":6,
+         "created_at":1659416151294
+      },
+      {
+         "id":1063864779,
+         "avatar":"https://image-1.gapowork.vn/images/56c926ab-670c-4274-a612-48e9a460f7fc.png",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/56c926ab-670c-4274-a612-48e9a460f7fc.png",
+         "display_name":"mix@adaov.com",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "work":[
+               {
+                  "user_id":1063864779,
+                  "workspace_id":"581901855697089",
+                  "company":"Karo"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":3,
+         "how_found":7,
+         "created_at":1658733219209
+      },
+      {
+         "id":906361290,
+         "avatar":"https://image-1.gapowork.vn/images/b8e4fdf4-26a6-4f7d-a461-7f1e2dbec995.png",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/b8e4fdf4-26a6-4f7d-a461-7f1e2dbec995.png",
+         "display_name":"Hoa1st",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "work":[
+               {
+                  "user_id":906361290,
+                  "workspace_id":"581691351119902",
+                  "company":"Robot-mail Staging",
+                  "departments":[
+                     "check"
+                  ],
+                  "department_ids":[
+                     "bbe523eb7c9f46c483bbd0bb218b45bc"
+                  ],
+                  "department_id":"bbe523eb7c9f46c483bbd0bb218b45bc",
+                  "department":"check",
+                  "title":"cc",
+                  "role_id":"c60604de1a0e4248967fda291a55c351",
+                  "list_departments":[
+                     {
+                        "tree_id":"581691351119902",
+                        "department_ids":[
+                           "bbe523eb7c9f46c483bbd0bb218b45bc"
+                        ],
+                        "departments":[
+                           "check"
+                        ],
+                        "department_id":"bbe523eb7c9f46c483bbd0bb218b45bc",
+                        "department":"check",
+                        "role_id":"c60604de1a0e4248967fda291a55c351",
+                        "title":"cc"
+                     },
+                     {
+                        "tree_id":"581691351119902",
+                        "department_ids":[
+                           "e68a7edf692b425da044cce4162bc6db"
+                        ],
+                        "departments":[
+                           "hoho"
+                        ],
+                        "department_id":"e68a7edf692b425da044cce4162bc6db",
+                        "department":"hoho",
+                        "role_id":"c60604de1a0e4248967fda291a55c351",
+                        "title":"cc"
+                     }
+                  ]
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"581781330698384",
+                  "company":"@x4u.me - WS được tạo zoom"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"582244627409981",
+                  "company":"Wp đã verify",
+                  "departments":[
+                     "Phòng ban new"
+                  ],
+                  "department_ids":[
+                     "7cdf37c0f4ec432482992a58f285010d"
+                  ],
+                  "department_id":"7cdf37c0f4ec432482992a58f285010d",
+                  "department":"Phòng ban new",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582244627409981",
+                        "department_ids":[
+                           "7cdf37c0f4ec432482992a58f285010d"
+                        ],
+                        "departments":[
+                           "Phòng ban new"
+                        ],
+                        "department_id":"7cdf37c0f4ec432482992a58f285010d",
+                        "department":"Phòng ban new"
+                     },
+                     {
+                        "tree_id":"582244627409981",
+                        "department_ids":[
+                           "c82f6ccf778948488f6281870a5c018b"
+                        ],
+                        "departments":[
+                           "hoang vân anh"
+                        ],
+                        "department_id":"c82f6ccf778948488f6281870a5c018b",
+                        "department":"hoang vân anh"
+                     }
+                  ]
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"582597246857511",
+                  "company":"Hienhihi staging",
+                  "departments":[
+                     "Phòng ban 8"
+                  ],
+                  "department_ids":[
+                     "a0d626f286ef4dfe9bba878a1e12e9a9"
+                  ],
+                  "department_id":"a0d626f286ef4dfe9bba878a1e12e9a9",
+                  "department":"Phòng ban 8",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "a0d626f286ef4dfe9bba878a1e12e9a9"
+                        ],
+                        "departments":[
+                           "Phòng ban 8"
+                        ],
+                        "department_id":"a0d626f286ef4dfe9bba878a1e12e9a9",
+                        "department":"Phòng ban 8"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "6c7ae7d7b1c642759e72e0c18a5f4999"
+                        ],
+                        "departments":[
+                           "Phòng ban 16"
+                        ],
+                        "department_id":"6c7ae7d7b1c642759e72e0c18a5f4999",
+                        "department":"Phòng ban 16"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "55562cfaca034bc1b05cf9d5b00296f7"
+                        ],
+                        "departments":[
+                           "Phòng ban 18"
+                        ],
+                        "department_id":"55562cfaca034bc1b05cf9d5b00296f7",
+                        "department":"Phòng ban 18"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "737119e104d04dddacd3666f6a88b9e1"
+                        ],
+                        "departments":[
+                           "Phòng ban 19"
+                        ],
+                        "department_id":"737119e104d04dddacd3666f6a88b9e1",
+                        "department":"Phòng ban 19"
+                     },
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"582642639317002",
+                  "company":"Shopmizi.com"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"582739894093506",
+                  "company":"Trang Test"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"583011011927894",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"583011017107230",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"583011140262350",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"583011156821279",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":906361290,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group",
+                  "departments":[
+                     "Phòng ban 8"
+                  ],
+                  "department_ids":[
+                     "a0d626f286ef4dfe9bba878a1e12e9a9"
+                  ],
+                  "department_id":"a0d626f286ef4dfe9bba878a1e12e9a9",
+                  "department":"Phòng ban 8",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "a0d626f286ef4dfe9bba878a1e12e9a9"
+                        ],
+                        "departments":[
+                           "Phòng ban 8"
+                        ],
+                        "department_id":"a0d626f286ef4dfe9bba878a1e12e9a9",
+                        "department":"Phòng ban 8"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "6c7ae7d7b1c642759e72e0c18a5f4999"
+                        ],
+                        "departments":[
+                           "Phòng ban 16"
+                        ],
+                        "department_id":"6c7ae7d7b1c642759e72e0c18a5f4999",
+                        "department":"Phòng ban 16"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "55562cfaca034bc1b05cf9d5b00296f7"
+                        ],
+                        "departments":[
+                           "Phòng ban 18"
+                        ],
+                        "department_id":"55562cfaca034bc1b05cf9d5b00296f7",
+                        "department":"Phòng ban 18"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "737119e104d04dddacd3666f6a88b9e1"
+                        ],
+                        "departments":[
+                           "Phòng ban 19"
+                        ],
+                        "department_id":"737119e104d04dddacd3666f6a88b9e1",
+                        "department":"Phòng ban 19"
+                     },
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":0,
+         "how_found":6,
+         "created_at":1656993038367
+      },
+      {
+         "id":1497006554,
+         "avatar":"https://image-1.gapowork.vn/images/7d7c4781-3bc9-4242-ab25-643e1dc953e1.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/7d7c4781-3bc9-4242-ab25-643e1dc953e1.jpeg",
+         "display_name":"mix@emtaoko.com",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "addresss":{
+               "current":{
+                  "city":0
+               }
+            },
+            "work":[
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"581901855697089",
+                  "company":"Karo",
+                  "departments":[
+                     "Phòng ban 3"
+                  ],
+                  "department_ids":[
+                     "6e2bd39cc0424d868a8c625d55c29a5c"
+                  ],
+                  "department_id":"6e2bd39cc0424d868a8c625d55c29a5c",
+                  "department":"Phòng ban 3",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581901855697089",
+                        "department_ids":[
+                           "6e2bd39cc0424d868a8c625d55c29a5c"
+                        ],
+                        "departments":[
+                           "Phòng ban 3"
+                        ],
+                        "department_id":"6e2bd39cc0424d868a8c625d55c29a5c",
+                        "department":"Phòng ban 3"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"581915366030128",
+                  "company":"sao thế đk"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"582162612981911",
+                  "company":"phone test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"582216200926554",
+                  "company":"                    Tieu Mimi                 "
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"582247823497049",
+                  "company":"uh thì thay đổi"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"582626766794995",
+                  "company":"B-World"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"582626768366207",
+                  "company":"B-World"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583020825658629",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583020872871392",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022616014330",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022658496102",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022700388994",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022761968901",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022766369355",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022769859330",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022771791305",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022773330536",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022774208116",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022775248958",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022776123733",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022778787719",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022781216614",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022781663648",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022849307601",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022851249983",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022852549378",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022854278244",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022855389735",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022857326323",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022858258481",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022859794226",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1497006554,
+                  "workspace_id":"583022861622549",
+                  "company":"Workspace sample test"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":2,
+         "how_found":6,
+         "created_at":1656297374433
+      },
+      {
+         "id":661409817,
+         "avatar":"https://image-1.gapowork.vn/images/19867ca4-3b02-492c-b974-7a661c09e50e/blob.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/19867ca4-3b02-492c-b974-7a661c09e50e/blob.jpeg",
+         "display_name":"Long",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"Mo ta ngna vev ok",
+            "addresss":{
+               "current":{
+                  "city":61,
+                  "privacy":5
+               }
+            },
+            "work":[
+               {
+                  "user_id":661409817,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "3 [iOs] Là requester, tôi muốn tạ dfgsdfgdf dfgsfgdfg"
+                  ],
+                  "department_ids":[
+                     "a89afe3b231847169817225b316cbc18"
+                  ],
+                  "department_id":"a89afe3b231847169817225b316cbc18",
+                  "department":"3 [iOs] Là requester, tôi muốn tạ dfgsdfgdf dfgsfgdfg",
+                  "title":"Chức vụ 5 người",
+                  "role_id":"3bb49b3355c44a69aebfd93e32cb633c",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "a89afe3b231847169817225b316cbc18"
+                        ],
+                        "departments":[
+                           "3 [iOs] Là requester, tôi muốn tạ dfgsdfgdf dfgsfgdfg"
+                        ],
+                        "department_id":"a89afe3b231847169817225b316cbc18",
+                        "department":"3 [iOs] Là requester, tôi muốn tạ dfgsdfgdf dfgsfgdfg",
+                        "role_id":"3bb49b3355c44a69aebfd93e32cb633c",
+                        "title":"Chức vụ 5 người"
+                     }
+                  ]
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017964770610",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017966376164",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017970074780",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017974430931",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017979404380",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017981554931",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017984014680",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017985944637",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017987543112",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017990584009",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017991917247",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017992905975",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017994359800",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583017997888678",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018001430925",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018009019495",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018014484070",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018022911817",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018072420070",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018079260089",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":661409817,
+                  "workspace_id":"583040651517913",
+                  "company":"Workspace khảo sát"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":1,
+         "created_at":1655804363703
+      },
+      {
+         "id":1225899345,
+         "avatar":"",
+         "avatar_thumb_pattern":"",
+         "display_name":"Tét Tơ",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "work":[
+               {
+                  "user_id":1225899345,
+                  "workspace_id":"582610338807834",
+                  "company":"Test tơ gapo"
+               }
+            ],
+            "bio":""
+         },
+         "relation":3,
+         "count_mutual_friend":0,
+         "how_found":6,
+         "created_at":1655717890660
+      },
+      {
+         "id":1737085152,
+         "avatar":"https://image-2.gapowork.vn/images/d55815bd-8ee1-4a96-b2a9-c8b49fc38d34/blob.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-2.gapowork.vn/$size$/smart/d55815bd-8ee1-4a96-b2a9-c8b49fc38d34/blob.jpeg",
+         "display_name":"vun1cgg",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"jytiuiuyi",
+            "addresss":{
+               "current":{
+                  "city":6
+               }
+            },
+            "work":[
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"581711080747329",
+                  "company":"Ở nhà anh là cá mập ra đường anh là cá con",
+                  "departments":[
+                     "A"
+                  ],
+                  "department_ids":[
+                     "95ca288c6fbe4eab8cd9bb5f194f1667"
+                  ],
+                  "department_id":"95ca288c6fbe4eab8cd9bb5f194f1667",
+                  "department":"A",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "95ca288c6fbe4eab8cd9bb5f194f1667"
+                        ],
+                        "departments":[
+                           "A"
+                        ],
+                        "department_id":"95ca288c6fbe4eab8cd9bb5f194f1667",
+                        "department":"A"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "dec3469d8e0545dc83765973495178a6"
+                        ],
+                        "departments":[
+                           "fgfg"
+                        ],
+                        "department_id":"dec3469d8e0545dc83765973495178a6",
+                        "department":"fgfg"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "6b6e87bfd1aa4315bece91850e6ae1d0"
+                        ],
+                        "departments":[
+                           "o"
+                        ],
+                        "department_id":"6b6e87bfd1aa4315bece91850e6ae1d0",
+                        "department":"o"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "71b8948cba494c5eabbd347552fc0970"
+                        ],
+                        "departments":[
+                           "Phòng ban có 50 user"
+                        ],
+                        "department_id":"71b8948cba494c5eabbd347552fc0970",
+                        "department":"Phòng ban có 50 user"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "09c4db93d70e4d2f92769329ce3efe63"
+                        ],
+                        "departments":[
+                           "new"
+                        ],
+                        "department_id":"09c4db93d70e4d2f92769329ce3efe63",
+                        "department":"new"
+                     },
+                     {
+                        "tree_id":"581711080747329",
+                        "department_ids":[
+                           "c83d5971dc404525ba6681e82940ecbd"
+                        ],
+                        "departments":[
+                           "XY"
+                        ],
+                        "department_id":"c83d5971dc404525ba6681e82940ecbd",
+                        "department":"XY"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"581901855697089",
+                  "company":"Karo",
+                  "departments":[
+                     "abcx"
+                  ],
+                  "department_ids":[
+                     "45370d13fbff485d93ec05eba7d25e43"
+                  ],
+                  "department_id":"45370d13fbff485d93ec05eba7d25e43",
+                  "department":"abcx",
+                  "title":"Công nhân",
+                  "role_id":"69ad09133574455fb5bf75237a033d4d",
+                  "list_departments":[
+                     {
+                        "tree_id":"581901855697089",
+                        "department_ids":[
+                           "45370d13fbff485d93ec05eba7d25e43"
+                        ],
+                        "departments":[
+                           "abcx"
+                        ],
+                        "department_id":"45370d13fbff485d93ec05eba7d25e43",
+                        "department":"abcx",
+                        "role_id":"69ad09133574455fb5bf75237a033d4d",
+                        "title":"Công nhân"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"581971511282290",
+                  "company":"Test Excel Approval - Tester gapo"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582216200926554",
+                  "company":"                    Tieu Mimi                 "
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582216288708906",
+                  "company":"WS Lò Thị Tét"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582216303887306",
+                  "company":"quyennt makesnte"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582216317151347",
+                  "company":"hedvdeh"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582216385375869",
+                  "company":"caraparcal"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582216839298207",
+                  "company":"nhtlaih"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582597246857511",
+                  "company":"Hienhihi staging",
+                  "departments":[
+                     "Android - group phòng ban"
+                  ],
+                  "department_ids":[
+                     "fa6263cd12eb4371986dfe5d2c017d92"
+                  ],
+                  "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                  "department":"Android - group phòng ban",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582626766794995",
+                  "company":"B-World",
+                  "departments":[
+                     "abcx"
+                  ],
+                  "department_ids":[
+                     "af58242ffc1c489cbbd7ae186daa703d"
+                  ],
+                  "department_id":"af58242ffc1c489cbbd7ae186daa703d",
+                  "department":"abcx",
+                  "title":"Công nhân",
+                  "role_id":"1eb523c36c2845478e29b0d4bbdccf52",
+                  "list_departments":[
+                     {
+                        "tree_id":"582626766794995",
+                        "department_ids":[
+                           "af58242ffc1c489cbbd7ae186daa703d"
+                        ],
+                        "departments":[
+                           "abcx"
+                        ],
+                        "department_id":"af58242ffc1c489cbbd7ae186daa703d",
+                        "department":"abcx",
+                        "role_id":"1eb523c36c2845478e29b0d4bbdccf52",
+                        "title":"Công nhân"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582647036484125",
+                  "company":"Tester gapo"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582739894093506",
+                  "company":"Trang Test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582771081116621",
+                  "company":"Section"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582796723906701",
+                  "company":"aaaa"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582943272236535",
+                  "company":"Mini Task"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582961299176450",
+                  "company":"Mèo nổ"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582961955323222",
+                  "company":"w4y7uw"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582980051903080",
+                  "company":"ASHYA"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"582980058384092",
+                  "company":"qy"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583007117656824",
+                  "company":"hello"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583007397810458",
+                  "company":"Trang tạo thêm một ws"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583009032944144",
+                  "company":"to chuc moiiiii"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583011011927894",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583011017107230",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583011140262350",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583011156821279",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group",
+                  "departments":[
+                     "Android - group phòng ban"
+                  ],
+                  "department_ids":[
+                     "fa6263cd12eb4371986dfe5d2c017d92"
+                  ],
+                  "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                  "department":"Android - group phòng ban",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020825658629",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583020872871392",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022610782015",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022616014330",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022658496102",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022700388994",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022761968901",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022766369355",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022769859330",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022771791305",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022773330536",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022774208116",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022775248958",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022776123733",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022781216614",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022781663648",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022849307601",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022851249983",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022852549378",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022854278244",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022855389735",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022857326323",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022858258481",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022859794226",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583022861622549",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023140490812",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023143564162",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023145276041",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023153138657",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023343898932",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023346564570",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023350818354",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023397019268",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023400725355",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023405166887",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023406639769",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023408269728",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023823511775",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023826226879",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023829849211",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023834117518",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023850151687",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023933485325",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023944906467",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023958859842",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583023967355876",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583024021192704",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583024022808481",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583024027047323",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583033773356614",
+                  "company":"Trung Mèo Workspace"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583116013907896",
+                  "company":"grass"
+               },
+               {
+                  "user_id":1737085152,
+                  "workspace_id":"583116026504230",
+                  "company":"grass copy"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":2,
+         "how_found":6,
+         "created_at":1654618685805
+      },
+      {
+         "id":1098302336,
+         "avatar":"https://image-1.gapowork.vn/images/fac7d33a-6eba-48a0-b5f6-96a0c4ca29f3.png",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/fac7d33a-6eba-48a0-b5f6-96a0c4ca29f3.png",
+         "display_name":"Đàm Văn Hưởng",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "work":[
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "a"
+                  ],
+                  "department_ids":[
+                     "5f61646a23244cbb9fe7b09100083048"
+                  ],
+                  "department_id":"5f61646a23244cbb9fe7b09100083048",
+                  "department":"a",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":1098302336,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":0,
+         "how_found":6,
+         "created_at":1654155680454
+      },
+      {
+         "id":1071180910,
+         "avatar":"https://image-2.gapowork.vn/images/34de9069-6445-470e-a5c1-4ce80ff4f68c/blob.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-2.gapowork.vn/$size$/smart/34de9069-6445-470e-a5c1-4ce80ff4f68c/blob.jpeg",
+         "display_name":"Mây Mây Mây Mây Mây Mây",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "addresss":{
+               "current":{
+                  "city":0
+               }
+            },
+            "work":[
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"581686174784605",
+                  "company":"bay babyy- bị khóa"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"581736396194290",
+                  "company":"btcmod.com- verify"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"581781330698384",
+                  "company":"@x4u.me - WS được tạo zoom",
+                  "departments":[
+                     "manh tét"
+                  ],
+                  "department_ids":[
+                     "09a19bfc0ce24b739b6fba9e8f32c08e"
+                  ],
+                  "department_id":"09a19bfc0ce24b739b6fba9e8f32c08e",
+                  "department":"manh tét",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581781330698384",
+                        "department_ids":[
+                           "09a19bfc0ce24b739b6fba9e8f32c08e"
+                        ],
+                        "departments":[
+                           "manh tét"
+                        ],
+                        "department_id":"09a19bfc0ce24b739b6fba9e8f32c08e",
+                        "department":"manh tét"
+                     },
+                     {
+                        "tree_id":"581781330698384",
+                        "department_ids":[
+                           "ebb69ee317364bfc9876e5255719c26f"
+                        ],
+                        "departments":[
+                           "3103 Group phòng ban"
+                        ],
+                        "department_id":"ebb69ee317364bfc9876e5255719c26f",
+                        "department":"3103 Group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "a"
+                  ],
+                  "department_ids":[
+                     "5f61646a23244cbb9fe7b09100083048"
+                  ],
+                  "department_id":"5f61646a23244cbb9fe7b09100083048",
+                  "department":"a",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a"
+                     },
+                     {
+                        "tree_id":"310d43a8eb4e4d81bd5d7ff849af64b4",
+                        "department_ids":[
+                           "868dc6c8d3f84dab85ff37754dd20c7f"
+                        ],
+                        "departments":[
+                           "iuo8o"
+                        ],
+                        "department_id":"868dc6c8d3f84dab85ff37754dd20c7f",
+                        "department":"iuo8o"
+                     },
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "2e4607c72b254572909b339f8cc831cd",
+                           "4dd6d8f29ce44c60b72bf817f629870f"
+                        ],
+                        "departments":[
+                           "7",
+                           "Gapo con 1"
+                        ],
+                        "department_id":"4dd6d8f29ce44c60b72bf817f629870f",
+                        "department":"Gapo con 1"
+                     },
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "1f7f7e9b09c74087809890429e5de2ee"
+                        ],
+                        "departments":[
+                           "Phòng ban này có 3 người"
+                        ],
+                        "department_id":"1f7f7e9b09c74087809890429e5de2ee",
+                        "department":"Phòng ban này có 3 người"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582098304654272",
+                  "company":"Admin-Trường học- WS không được tạo zoom"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582515844427520",
+                  "company":"Mở - đã đc verify"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582597246857511",
+                  "company":"Hienhihi staging",
+                  "departments":[
+                     "Android - group phòng ban"
+                  ],
+                  "department_ids":[
+                     "fa6263cd12eb4371986dfe5d2c017d92"
+                  ],
+                  "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                  "department":"Android - group phòng ban",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"582597246857511",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582629171101617",
+                  "company":"Dashbroad",
+                  "departments":[
+                     "YODY BUÔN HỒ"
+                  ],
+                  "department_ids":[
+                     "6b13e9194835441c9f5c360d8b12e56a"
+                  ],
+                  "department_id":"6b13e9194835441c9f5c360d8b12e56a",
+                  "department":"YODY BUÔN HỒ",
+                  "title":"Chuyên gia tư vấn",
+                  "role_id":"0b9640c9b07d43f79281dfdaad0e36cd",
+                  "list_departments":[
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "6b13e9194835441c9f5c360d8b12e56a"
+                        ],
+                        "departments":[
+                           "YODY BUÔN HỒ"
+                        ],
+                        "department_id":"6b13e9194835441c9f5c360d8b12e56a",
+                        "department":"YODY BUÔN HỒ",
+                        "role_id":"0b9640c9b07d43f79281dfdaad0e36cd",
+                        "title":"Chuyên gia tư vấn"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "9aa8571f3ede48fcabe09f08ce5ccdcb"
+                        ],
+                        "departments":[
+                           "YODY HÀ LAM"
+                        ],
+                        "department_id":"9aa8571f3ede48fcabe09f08ce5ccdcb",
+                        "department":"YODY HÀ LAM",
+                        "role_id":"0b9640c9b07d43f79281dfdaad0e36cd",
+                        "title":"Chuyên gia tư vấn"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "813316b8961542ce9966d40959bfbdc3"
+                        ],
+                        "departments":[
+                           "YODY BUÔN TRẤP"
+                        ],
+                        "department_id":"813316b8961542ce9966d40959bfbdc3",
+                        "department":"YODY BUÔN TRẤP",
+                        "role_id":"956e2de7ae06456f9684ea15c63fb9e9",
+                        "title":"CTO"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "c5a2685ba61e4791a4e370d766527ed3"
+                        ],
+                        "departments":[
+                           "Phòng ban VĨ"
+                        ],
+                        "department_id":"c5a2685ba61e4791a4e370d766527ed3",
+                        "department":"Phòng ban VĨ"
+                     },
+                     {
+                        "tree_id":"778b68c2d18d44cabc3914c61b0d4c20",
+                        "department_ids":[
+                           "9c903a36c34c459898bd30e5e11b278b"
+                        ],
+                        "departments":[
+                           "Phụ 1"
+                        ],
+                        "department_id":"9c903a36c34c459898bd30e5e11b278b",
+                        "department":"Phụ 1"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "10e0fb04217a4ca6abaf756f8a76d577",
+                           "9e6ad8dd5dbe4c82ababfaadb2a44e84"
+                        ],
+                        "departments":[
+                           "HIne pb 0101",
+                           "Hien bé 1"
+                        ],
+                        "department_id":"9e6ad8dd5dbe4c82ababfaadb2a44e84",
+                        "department":"Hien bé 1"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "357ff2f02b34492587e0ced6a492d924"
+                        ],
+                        "departments":[
+                           "Hiên 01"
+                        ],
+                        "department_id":"357ff2f02b34492587e0ced6a492d924",
+                        "department":"Hiên 01"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "d62e5ae916324fbb850f64862d82529e"
+                        ],
+                        "departments":[
+                           "ao 01"
+                        ],
+                        "department_id":"d62e5ae916324fbb850f64862d82529e",
+                        "department":"ao 01"
+                     },
+                     {
+                        "tree_id":"582629171101617",
+                        "department_ids":[
+                           "10f1936ab79846ae85feb79ce6bbce1b"
+                        ],
+                        "departments":[
+                           "2"
+                        ],
+                        "department_id":"10f1936ab79846ae85feb79ce6bbce1b",
+                        "department":"2",
+                        "role_id":"f325f7e9ed5c45179f7fe1422cceb760",
+                        "title":"BAa"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582715820174973",
+                  "company":"Yody Fake test 2"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582737618083748",
+                  "company":"test import sdt- Enterpise"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582764782723426",
+                  "company":"Tổ chức vì người nghèo"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582796723906701",
+                  "company":"aaaa"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582843675985602",
+                  "company":"WS bị khóa"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582943368947512",
+                  "company":"WS tạo ngày 02.11 TEST"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582963704781655",
+                  "company":"67"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582975066827601",
+                  "company":"Test Billing 16.11-Limit survey,zoom, minitask"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582975084807822",
+                  "company":"WS Test 16.11 02-2000 thành viên"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582986837395479",
+                  "company":"VA 1 - Không ai động vào nhé ạ"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582988432675832",
+                  "company":"22.11"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582993468077166",
+                  "company":"WS đạt 80% limit"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582995406632675",
+                  "company":"WS 25.11 xem có phụ lục không nhé"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582995435689686",
+                  "company":"Contract import cms quá số lượng"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582995445846717",
+                  "company":"WS Test 25.11- Business PILOT"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"582995725732204",
+                  "company":"ws test 80 user"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583004365369534",
+                  "company":"WS test limit zoom"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583006727975207",
+                  "company":"Ws thuộc gói pilot- premium",
+                  "departments":[
+                     "Chi nhánh Đà Nẵng",
+                     "Phòng chăm sóc khách hàng",
+                     "Xử lý khiếu nại"
+                  ],
+                  "department_ids":[
+                     "19e68cfb383649049d1b244890c0401f",
+                     "6be13f18a7e0455ebd2b37e2ca8d7d99",
+                     "b48b59d1dd7440efa2370d746dfed248"
+                  ],
+                  "department_id":"b48b59d1dd7440efa2370d746dfed248",
+                  "department":"Xử lý khiếu nại",
+                  "title":"Nhân viên chăm sóc khách hàng",
+                  "role_id":"b7a6ce2262174e7490e032f66df52b84",
+                  "list_departments":[
+                     {
+                        "tree_id":"583006727975207",
+                        "department_ids":[
+                           "19e68cfb383649049d1b244890c0401f",
+                           "6be13f18a7e0455ebd2b37e2ca8d7d99",
+                           "b48b59d1dd7440efa2370d746dfed248"
+                        ],
+                        "departments":[
+                           "Chi nhánh Đà Nẵng",
+                           "Phòng chăm sóc khách hàng",
+                           "Xử lý khiếu nại"
+                        ],
+                        "department_id":"b48b59d1dd7440efa2370d746dfed248",
+                        "department":"Xử lý khiếu nại",
+                        "role_id":"b7a6ce2262174e7490e032f66df52b84",
+                        "title":"Nhân viên chăm sóc khách hàng"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583007371714599",
+                  "company":"tesst 30.11",
+                  "departments":[
+                     "Khối Kinh doanh",
+                     "vân Anh",
+                     "Con bố Đại"
+                  ],
+                  "department_ids":[
+                     "c449e8f15b93433f9f41928c1aa0663f",
+                     "2051f9e869874a72a8d9ba24ebd4f199",
+                     "e982c2a1767a4042a2a14905f8e27e83"
+                  ],
+                  "department_id":"e982c2a1767a4042a2a14905f8e27e83",
+                  "department":"Con bố Đại",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"583007371714599",
+                        "department_ids":[
+                           "c449e8f15b93433f9f41928c1aa0663f",
+                           "2051f9e869874a72a8d9ba24ebd4f199",
+                           "e982c2a1767a4042a2a14905f8e27e83"
+                        ],
+                        "departments":[
+                           "Khối Kinh doanh",
+                           "vân Anh",
+                           "Con bố Đại"
+                        ],
+                        "department_id":"e982c2a1767a4042a2a14905f8e27e83",
+                        "department":"Con bố Đại"
+                     },
+                     {
+                        "tree_id":"583007371714599",
+                        "department_ids":[
+                           "c449e8f15b93433f9f41928c1aa0663f",
+                           "2051f9e869874a72a8d9ba24ebd4f199"
+                        ],
+                        "departments":[
+                           "Khối Kinh doanh",
+                           "vân Anh"
+                        ],
+                        "department_id":"2051f9e869874a72a8d9ba24ebd4f199",
+                        "department":"vân Anh"
+                     },
+                     {
+                        "tree_id":"583007371714599",
+                        "department_ids":[
+                           "c449e8f15b93433f9f41928c1aa0663f"
+                        ],
+                        "departments":[
+                           "Khối Kinh doanh"
+                        ],
+                        "department_id":"c449e8f15b93433f9f41928c1aa0663f",
+                        "department":"Khối Kinh doanh"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583007376865650",
+                  "company":"Tết Đến"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583007399293092",
+                  "company":"Sss"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583008870464252",
+                  "company":"Hitessy"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583009568715702",
+                  "company":"Business PILOT 0112"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011011927894",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011017107230",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011140262350",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011156821279",
+                  "company":"Sample Clone"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011214850156",
+                  "company":"02.12 Pilot Premium- Whitelist zoom",
+                  "departments":[
+                     "Chi nhánh Đà Nẵng",
+                     "Phòng chăm sóc khách hàng",
+                     "Xử lý khiếu nại"
+                  ],
+                  "department_ids":[
+                     "b32fa26425144521afd4e97da0b27d3f",
+                     "e90602d12e2a483695258b6cde033745",
+                     "8a71a40b63be429d8f0344daa96a0543"
+                  ],
+                  "department_id":"8a71a40b63be429d8f0344daa96a0543",
+                  "department":"Xử lý khiếu nại",
+                  "title":"Nhân viên chăm sóc khách hàng",
+                  "role_id":"ed0f92c8d7dd4ba78d9daa84a3780569",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011214850156",
+                        "department_ids":[
+                           "b32fa26425144521afd4e97da0b27d3f",
+                           "e90602d12e2a483695258b6cde033745",
+                           "8a71a40b63be429d8f0344daa96a0543"
+                        ],
+                        "departments":[
+                           "Chi nhánh Đà Nẵng",
+                           "Phòng chăm sóc khách hàng",
+                           "Xử lý khiếu nại"
+                        ],
+                        "department_id":"8a71a40b63be429d8f0344daa96a0543",
+                        "department":"Xử lý khiếu nại",
+                        "role_id":"ed0f92c8d7dd4ba78d9daa84a3780569",
+                        "title":"Nhân viên chăm sóc khách hàng"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011326996801",
+                  "company":"02.12.01- Pilot Premium",
+                  "departments":[
+                     "Chi nhánh Đà Nẵng",
+                     "Phòng chăm sóc khách hàng",
+                     "Xử lý khiếu nại"
+                  ],
+                  "department_ids":[
+                     "554c66c7d11f48ba8814da9fd0c98ec3",
+                     "7e56613af265487ba97cb10735c5c077",
+                     "21455784df1a4906b6f5d194b68a5b08"
+                  ],
+                  "department_id":"21455784df1a4906b6f5d194b68a5b08",
+                  "department":"Xử lý khiếu nại",
+                  "title":"Nhân viên chăm sóc khách hàng",
+                  "role_id":"ff7dc596fccd4d9e8b4ac0c9765d1be3",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011326996801",
+                        "department_ids":[
+                           "554c66c7d11f48ba8814da9fd0c98ec3",
+                           "7e56613af265487ba97cb10735c5c077",
+                           "21455784df1a4906b6f5d194b68a5b08"
+                        ],
+                        "departments":[
+                           "Chi nhánh Đà Nẵng",
+                           "Phòng chăm sóc khách hàng",
+                           "Xử lý khiếu nại"
+                        ],
+                        "department_id":"21455784df1a4906b6f5d194b68a5b08",
+                        "department":"Xử lý khiếu nại",
+                        "role_id":"ff7dc596fccd4d9e8b4ac0c9765d1be3",
+                        "title":"Nhân viên chăm sóc khách hàng"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011337087379",
+                  "company":"02.12.02 Pilot Premium",
+                  "departments":[
+                     "Chi nhánh Đà Nẵng",
+                     "Phòng chăm sóc khách hàng",
+                     "Xử lý khiếu nại"
+                  ],
+                  "department_ids":[
+                     "179ea56ec2004c76936b598804bd630a",
+                     "45af390a6b8f43f89a892a7f4845ff5e",
+                     "0db2ba2f9f7843ada6f5eaf994c4f5f7"
+                  ],
+                  "department_id":"0db2ba2f9f7843ada6f5eaf994c4f5f7",
+                  "department":"Xử lý khiếu nại",
+                  "title":"Nhân viên chăm sóc khách hàng",
+                  "role_id":"f55897431a0c4b6da4f65b241624f1ea",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011337087379",
+                        "department_ids":[
+                           "179ea56ec2004c76936b598804bd630a",
+                           "45af390a6b8f43f89a892a7f4845ff5e",
+                           "0db2ba2f9f7843ada6f5eaf994c4f5f7"
+                        ],
+                        "departments":[
+                           "Chi nhánh Đà Nẵng",
+                           "Phòng chăm sóc khách hàng",
+                           "Xử lý khiếu nại"
+                        ],
+                        "department_id":"0db2ba2f9f7843ada6f5eaf994c4f5f7",
+                        "department":"Xử lý khiếu nại",
+                        "role_id":"f55897431a0c4b6da4f65b241624f1ea",
+                        "title":"Nhân viên chăm sóc khách hàng"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011633196696",
+                  "company":"Tổ chức free"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group",
+                  "departments":[
+                     "Android - group phòng ban"
+                  ],
+                  "department_ids":[
+                     "fa6263cd12eb4371986dfe5d2c017d92"
+                  ],
+                  "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                  "department":"Android - group phòng ban",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"583011731190527",
+                        "department_ids":[
+                           "fa6263cd12eb4371986dfe5d2c017d92"
+                        ],
+                        "departments":[
+                           "Android - group phòng ban"
+                        ],
+                        "department_id":"fa6263cd12eb4371986dfe5d2c017d92",
+                        "department":"Android - group phòng ban"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583022518529058",
+                  "company":"07.12"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583022524839939",
+                  "company":"071202- Test 2",
+                  "departments":[
+                     "Chi nhánh Đà Nẵng",
+                     "Phòng chăm sóc khách hàng",
+                     "Xử lý khiếu nại"
+                  ],
+                  "department_ids":[
+                     "20163db514e8499da8d2fc870510d8de",
+                     "ecfde670d3f34cafb31b891a8cfb2158",
+                     "9c48e0b93d67456bb59fd3506298076c"
+                  ],
+                  "department_id":"9c48e0b93d67456bb59fd3506298076c",
+                  "department":"Xử lý khiếu nại",
+                  "title":"Nhân viên chăm sóc khách hàng",
+                  "role_id":"4993ad052293418cb92dd49520b097fe",
+                  "list_departments":[
+                     {
+                        "tree_id":"583022524839939",
+                        "department_ids":[
+                           "20163db514e8499da8d2fc870510d8de",
+                           "ecfde670d3f34cafb31b891a8cfb2158",
+                           "9c48e0b93d67456bb59fd3506298076c"
+                        ],
+                        "departments":[
+                           "Chi nhánh Đà Nẵng",
+                           "Phòng chăm sóc khách hàng",
+                           "Xử lý khiếu nại"
+                        ],
+                        "department_id":"9c48e0b93d67456bb59fd3506298076c",
+                        "department":"Xử lý khiếu nại",
+                        "role_id":"4993ad052293418cb92dd49520b097fe",
+                        "title":"Nhân viên chăm sóc khách hàng"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583022626996198",
+                  "company":"Test03-07.12"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583022645706175",
+                  "company":"Test05-07.12"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583024848936213",
+                  "company":"Test01-08.12"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583027419184575",
+                  "company":"09.12- Test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583027629908348",
+                  "company":"Droppii- Staging"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583036126206388",
+                  "company":"13.12 Test"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583036186300043",
+                  "company":"13.12 Test 02"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583036476068017",
+                  "company":"13.12 Test03"
+               },
+               {
+                  "user_id":1071180910,
+                  "workspace_id":"583036729393834",
+                  "company":"150000"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":6,
+         "created_at":1653984549393
+      },
+      {
+         "id":69,
+         "avatar":"https://image-1.gapowork.vn/images/a98901b1-cc10-4166-8e64-77500f33b2eb.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/a98901b1-cc10-4166-8e64-77500f33b2eb.jpeg",
+         "display_name":"0987654321111aaadasdasdas",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"Mô tả ngắn về bạn...",
+            "addresss":{
+               "current":{
+                  "city":8,
+                  "privacy":5
+               }
+            },
+            "work":[
+               {
+                  "user_id":69,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "a"
+                  ],
+                  "department_ids":[
+                     "5f61646a23244cbb9fe7b09100083048"
+                  ],
+                  "department_id":"5f61646a23244cbb9fe7b09100083048",
+                  "department":"a",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a"
+                     }
+                  ]
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":69,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":0,
+         "how_found":7,
+         "created_at":1650533630203
+      },
+      {
+         "id":131213746,
+         "avatar":"https://image-1.gapowork.vn/images/fb0526a1-1d7a-4234-9aa4-7190d3778d4e.jpeg",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/fb0526a1-1d7a-4234-9aa4-7190d3778d4e.jpeg",
+         "display_name":"ngobichho",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "addresss":{
+               "current":{
+                  "city":2
+               }
+            },
+            "work":[
+               {
+                  "user_id":131213746,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":131213746,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":6,
+         "created_at":1646876266532
+      },
+      {
+         "id":1310339437,
+         "avatar":"https://image-1.gapowork.vn/images/644ba15d-dd6c-497b-ad89-b6125afb1f61.png",
+         "avatar_thumb_pattern":"https://cdn-thumb-image-1.gapowork.vn/$size$/smart/644ba15d-dd6c-497b-ad89-b6125afb1f61.png",
+         "display_name":"Vu Bi Nhan3",
+         "status_verify":0,
+         "status_kyc":0,
+         "info":{
+            "bio":"",
+            "addresss":{
+               "current":{
+                  "city":0
+               }
+            },
+            "work":[
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"581860791816317",
+                  "company":"Gapo Sky",
+                  "departments":[
+                     "a"
+                  ],
+                  "department_ids":[
+                     "5f61646a23244cbb9fe7b09100083048"
+                  ],
+                  "department_id":"5f61646a23244cbb9fe7b09100083048",
+                  "department":"a",
+                  "title":"",
+                  "role_id":"",
+                  "list_departments":[
+                     {
+                        "tree_id":"581860791816317",
+                        "department_ids":[
+                           "5f61646a23244cbb9fe7b09100083048"
+                        ],
+                        "departments":[
+                           "a"
+                        ],
+                        "department_id":"5f61646a23244cbb9fe7b09100083048",
+                        "department":"a"
+                     }
+                  ]
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583011731190527",
+                  "company":"B-Group"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583018445980225",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020202355930",
+                  "company":"Duoi post man"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020291338823",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020293222040",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020294577560",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020297407667",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020300485421",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020304246532",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020305683972",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020326244713",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020326580598",
+                  "company":"Workspace Clone test"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020718438036",
+                  "company":"không có huy hiệu"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583020764067843",
+                  "company":"Vân Sờ Anh"
+               },
+               {
+                  "user_id":1310339437,
+                  "workspace_id":"583022595801612",
+                  "company":"Workspace sample test"
+               }
+            ]
+         },
+         "relation":3,
+         "count_mutual_friend":1,
+         "how_found":11,
+         "created_at":1645082377077
+      }
+   ],
+   "links":{
+      
+   }
+}
